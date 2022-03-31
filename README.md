@@ -1,12 +1,7 @@
 <div align="center">
 
 ## 💪 invincibility Hamster 💪
-
-[https://likelion-badge.herokuapp.com/api/likelion_shield_badge?generation=8](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?generation=8)
-
-[https://likelion-badge.herokuapp.com/api/likelion_shield_badge?generation=9](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?generation=9)
-
-[https://likelion-badge.herokuapp.com/api/likelion_shield_badge?generation=10](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?generation=10)
+![LIKELION.UNIV](http://is.am/5ywn)
 
 <p align="center">
 <img width="300" height="300" src="[https://d3mcojo3jv0dbr.cloudfront.net/2020/02/16/14/59/2874747c1a93a29c9c09429299a943f9.jpeg?w=640&q=65](https://d3mcojo3jv0dbr.cloudfront.net/2020/02/16/14/59/2874747c1a93a29c9c09429299a943f9.jpeg?w=640&q=65)">
@@ -31,6 +26,12 @@
 
 Here are some ideas to get you started:
 
+
+[https://likelion-badge.herokuapp.com/api/likelion_shield_badge?generation=8](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?generation=8)
+
+[https://likelion-badge.herokuapp.com/api/likelion_shield_badge?generation=9](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?generation=9)
+
+[https://likelion-badge.herokuapp.com/api/likelion_shield_badge?generation=10](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?generation=10)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
