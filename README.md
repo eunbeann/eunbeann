@@ -4,16 +4,16 @@
 ![LIKELION.UNIV](http://is.am/5ywn)
 
 <p align="center">
-<img width="300" height="300" src="[https://d3mcojo3jv0dbr.cloudfront.net/2020/02/16/14/59/2874747c1a93a29c9c09429299a943f9.jpeg?w=640&q=65](https://d3mcojo3jv0dbr.cloudfront.net/2020/02/16/14/59/2874747c1a93a29c9c09429299a943f9.jpeg?w=640&q=65)">
+<img width="300" height="350" src="https://www.pngitem.com/pimgs/m/81-816101_transparent-gerbil-png-syrian-hamster-png-download.png">
 </p>
 
 ![https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunbeann&count_bg=%2395DEFF&title_bg=%23555555&icon=ghostery.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunbeann&count_bg=%2395DEFF&title_bg=%23555555&icon=ghostery.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)
 
 <p>
 
-- 📚 Department of Library and Information Science <br>
-- 👩‍🎓 DSWU 19 <br>
-- 🖥 Studying FE
+ 📚 Department of Library and Information Science <br>
+ 👩‍🎓 DSWU 19 <br>
+ 🖥 Studying FE
 </p>
 <br>
 
