@@ -7,11 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:singun11@gmail.com)](mailto:ds5bean23@gmail.com)
 </a>
 <br>
- <br>
 
-![8th](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?generation=8)
-![9th](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?generation=9)
-![10th](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?generation=10)
 <br>
 <p align="center">
 <img width="200" height="250" src="https://www.pngitem.com/pimgs/m/81-816101_transparent-gerbil-png-syrian-hamster-png-download.png">
@@ -23,6 +19,8 @@
  📚 Department of   Library and Information Science <br>
  👩‍🎓 DSWU  19 <br> <br>
  🖥 Studying FE
+ - HTML, CSS, JS(ES6)
+ - React.js
 </p>
 <br>
 
