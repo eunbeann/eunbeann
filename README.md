@@ -18,8 +18,8 @@
 <p>
  📚 Department of   Library and Information Science <br>
  👩‍🎓 DSWU  19 <br> <br>
- 🖥 Studying FE
- - HTML, CSS, JS(ES6)
+ 🖥 Studying FE <br>
+ - HTML, CSS, JS(ES6) <br>
  - React.js
 </p>
 <br>
